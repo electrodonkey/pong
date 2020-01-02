@@ -12,7 +12,7 @@ public:
 
 	void printName()
 	{
-		cout << "Player name is: " << playerName;
+		cout << "Player name is: " << playerName << std::endl;
 	}
 };
 
